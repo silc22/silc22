@@ -18,6 +18,12 @@
     
 </div>
 
+<h3>Portfolio Web:</h3>
+  <p> 
+    <a href="https://silvana-cerquatti.herokuapp.com/" target="blank">
+    <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"/>
+  </p>
+
 ##
 
 ### Languages and Tools:
@@ -54,8 +60,5 @@
     <a href="https://t.me/silc1994" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="silvana cerquatti" height="40" width="40" /></a>
   </p>
 
-   <h3>Portfolio Web:</h3>
-  <p> 
-    <a href="https://silvana-cerquatti.herokuapp.com/" target="blank"></a>
-  </p>
+   
 </div>
