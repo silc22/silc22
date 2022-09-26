@@ -1,8 +1,5 @@
 ### Hi there, I'm Silvana T. Cerquatti 🙋 
 
-## I'm an IT enthusiast and a Full Stack MERN Developer
-
-##
 
 <div align="center">
   <img height="25em"  src="https://komarev.com/ghpvc/?username=silc22&label=Profile%20views&color=DAC03C&style=flat" alt="silvana cerquatti" />
