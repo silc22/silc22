@@ -15,14 +15,6 @@
     
 </div>
 
-<div align="center">
-<h3>Portfolio Web:</h3>
-  <p> 
-    <a href="https://silvana-cerquatti.herokuapp.com/" target="blank">
-    <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"/>
-  </p>
-</div>
-
 ##
 
 ### Languages and Tools:
